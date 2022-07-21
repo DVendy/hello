@@ -3,5 +3,4 @@
 </head>
 <body>
 	Hello world! :3<br>
-	LOL
 </body>
