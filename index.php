@@ -1,5 +1,5 @@
 <head>
-	<title>Hello ganteng</title>
+	<title>Hello world</title>
 </head>
 <body>
 	Hello world! :3<br>
